@@ -1,12 +1,19 @@
-About me / Sobre mim:
-ENGLISH:
-My name is Jorge Melo, I'm 27 years old. I'm in the penultimate period of my graduation in Systems Analysis and Development.
-I have a good experience with the Python technology in general, and I just had a little contact with some of its frameworks.
-I had experience with another technologies as well, and the ability to quickly learn new skills.
-I can say, for myself, that im good into adaptation process in general, in part for my knowledge in Programming Logic.
-I'm looking for the opportunity to work as a developer to give the initial step on my journey and my dream career!
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, you!
 
-PORTUGUÊS:
-Me chamo Jorge Melo, tenho 27 anos, estou no penúltimo período da graduação em Análise e Desenvolvimento de Sistemas.
-Tenho experiência com a linguagem Python, já entrei em contato com algumas de suas frameworks, já trabalhei com outras tecnologias durantea graduação, possuo como diferencial a capacidade de aprender de forma rápida e ágil novas tecnologias e habilidades, em parte por ter ótimo conhecimento em Lógica de Programação.
-Busco oportunidade de atuar como desenvolvedor e dar o ponta pé inicial em minha carreira!
+
+Technology has been following me without rest for a while now. I've been studying about Hardware I.T since 8-9yo, did some courses as a teenager, worked a little here and there, developed some bot applications for Tibia (a MMORPG) as a 16yo curious using PHP, but the real kick only came after Journalism college. I was/am working with finances and, somehow, I found a Dutch guy with a trading robot that needed some attention and that drove me back to developing. Since then, I can't help the feeling of building something, or testing something, or researching about something that cares about technology, development and the future of things — which we are certainly building.
+
+My utility belt:
+    - Python
+    - Javascript
+    - Typescript
+
+
+- 🔭 I’m currently working on getting better and better at developing fully functional web pages from scratch/design.
+- 👯 I’m looking to collaborate on Open Source projects and Open Data providers. If you want to display Data in a simple and understandable way, count me in.
+- ⚡  Links:
+    #### Instagram: 
+    #### Linkedin: 
+ <br />
+ 
+![jorgeemelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeemelo&hide=contribs,prs&show_icons=true&theme=synthwave)
