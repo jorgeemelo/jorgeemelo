@@ -13,7 +13,7 @@ Atualmente tenho experiência com as seguintes bibliotecas e frameworks (Python)
 - 👨‍💻 Flask;
 - 👨‍💻 Django;
 - 👨‍💻 Psycopg2 (Integração com servidores PostgreSQL);
-- 👨‍💻 Tkinter (Criação de ambientes interativos, uso principalmente para crição de apps desktop);
+- 👨‍💻 Tkinter (Criação de ambientes interativos, uso principalmente para criação de apps desktop);
 - 👨‍💻 Pandas;
 - 👨‍💻 Sqlite3;
 - etc...
